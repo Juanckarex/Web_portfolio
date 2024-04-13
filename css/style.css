@@ -10,7 +10,7 @@ html{
 }
 /* sección INICIO */
 .inicio{
-    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(/img/fondo1.jpg);
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(../img/fondo1.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center center;
@@ -274,7 +274,7 @@ nav ul li a:hover{
     padding: 70px 0;
 }
 .curriculum .numeros{
-    background: linear-gradient(rgba(0,0,0, 0.7), rgba(0,0,0,.7)), url(/img/fondonumeros.jpg);
+    background: linear-gradient(rgba(0,0,0, 0.7), rgba(0,0,0,.7)), url(../img/fondonumeros.jpg);
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -383,7 +383,7 @@ nav ul li a:hover{
     padding: 70px 0;
 }
 .contacto .banner{
-    background: linear-gradient(rgba(0,0,0, 0.8), rgba(0,0,0,.8)), url(/img/fondotrabajemos.jpg);
+    background: linear-gradient(rgba(0,0,0, 0.8), rgba(0,0,0,.8)), url(../img/fondotrabajemos.jpg);
     height: 400px;
     width: 100%;
     background-size: 100%;
