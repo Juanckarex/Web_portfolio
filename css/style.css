@@ -386,7 +386,7 @@ nav ul li a:hover{
     background: linear-gradient(rgba(0,0,0, 0.8), rgba(0,0,0,.8)), url(../img/fondotrabajemos.jpg);
     height: 400px;
     width: 100%;
-    background-size: 100%;
+    background-size: 200%;
     background-repeat: no-repeat;
     color: #fff;
     display: flex;
